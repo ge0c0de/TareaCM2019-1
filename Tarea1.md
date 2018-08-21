@@ -1,4 +1,6 @@
-## Tarea1
+# Tarea1
 Viveros Campos Omar Alfonso
 
-##Temas
+## Temas
+* Separar por categorías y conceptos
+

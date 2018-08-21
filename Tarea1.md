@@ -15,25 +15,24 @@
 
 * Dispositivos móviles
   * Smartphones
-    * Estadísticas    -https://expansion.mx/tecnologia/2018/02/20/en-mexico-hay-713-millones-de-mexicanos-con-acceso-a-interne-
-    .t
+    * Estadísticas    -https://expansion.mx/tecnologia/2018/02/20/en-mexico-hay-713-millones-de-mexicanos-con-acceso-a-internet-
   * Tablets
-    * Estadísticas
-  * Smartwatch
+    * Estadísticas    -https://www.xataka.com.mx/tablets/en-mexico-se-usan-23-2-millones-de-tablets-60-mas-que-el-ano-pasado-
+  * Smartwatch        -https://expansion.mx/tecnologia/2015/03/03/razones-por-las-que-los-smartwatches-no-venden-en-mexico-
 * Sistemas Operativos móviles
   * Android
     * Características                  
-    * Desarrollo                       https://developer.android.com/
+    * Desarrollo                       -https://developer.android.com/-
   * iOS
     * Características                  
     * Desarrollo                       https://developer.apple.com/documentation/
-* Aplicaciones móviles                 https://www.consumidor.ftc.gov/articulos/s0018-aplicaciones-moviles-que-son-y-como-funcionan
+* Aplicaciones móviles                -https://www.consumidor.ftc.gov/articulos/s0018-aplicaciones-moviles-que-son-y-como-funcionan-
   * Tienda  ?
     * Mercado   ?
-  * Negocio
+  * Negocio                            -https://www.channelbiz.es/2012/02/06/tiendas-de-aplicaciones-moviles-un-modelo-de-negocio-seguro/-
   
 * Comunicación inalámbrica
-  * transmisión de datos               https://es.wikipedia.org/wiki/Comunicaci%C3%B3n_inal%C3%A1mbrica
+  * transmisión de datos               -https://es.wikipedia.org/wiki/Comunicaci%C3%B3n_inal%C3%A1mbrica-
   * Comunicación remota
   
   

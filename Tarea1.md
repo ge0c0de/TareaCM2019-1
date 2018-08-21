@@ -1,6 +1,16 @@
 # Tarea1
-Viveros Campos Omar Alfonso
+Asignatura: Cómputo Movil
+Profesor:
+Tarea: 1
+Alumno: Viveros Campos Omar Alfonso
+Fecha: 
+
+## Objetivo
+
+* Separar por categorías y conceptos
+** Computo movil en contexto global y mexicano
 
 ## Temas
-* Separar por categorías y conceptos
+
+
 

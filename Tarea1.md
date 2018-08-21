@@ -15,7 +15,8 @@
 
 * Dispositivos móviles
   * Smartphones
-    * Estadísticas 
+    * Estadísticas    -https://expansion.mx/tecnologia/2018/02/20/en-mexico-hay-713-millones-de-mexicanos-con-acceso-a-interne-
+    .t
   * Tablets
     * Estadísticas
   * Smartwatch
@@ -27,12 +28,12 @@
     * Características                  
     * Desarrollo                       https://developer.apple.com/documentation/
 * Aplicaciones móviles                 https://www.consumidor.ftc.gov/articulos/s0018-aplicaciones-moviles-que-son-y-como-funcionan
-  * Tienda
-    * Mercado
+  * Tienda  ?
+    * Mercado   ?
   * Negocio
   
-* Redes inalámbricas
-  * transmisión de datos              http://infosec.aragon.unam.mx/tematicas/view/77
+* Comunicación inalámbrica
+  * transmisión de datos               https://es.wikipedia.org/wiki/Comunicaci%C3%B3n_inal%C3%A1mbrica
   * Comunicación remota
   
   

@@ -13,16 +13,27 @@
 
 ## Temas
 
+* Dispositivos móviles
+  * Smartphones
+    * Estadísticas 
+  * Tablets
+    * Estadísticas
+  * Smartwatch
 * Sistemas Operativos móviles
   * Android
+    * Características                  
+    * Desarrollo                       https://developer.android.com/
   * iOS
-* Aplicaciones móviles
+    * Características                  
+    * Desarrollo                       https://developer.apple.com/documentation/
+* Aplicaciones móviles                 https://www.consumidor.ftc.gov/articulos/s0018-aplicaciones-moviles-que-son-y-como-funcionan
   * Tienda
     * Mercado
   * Negocio
   
 * Redes inalámbricas
-  * transmisión de datos   http://infosec.aragon.unam.mx/tematicas/view/77
+  * transmisión de datos              http://infosec.aragon.unam.mx/tematicas/view/77
+  * Comunicación remota
   
   
 

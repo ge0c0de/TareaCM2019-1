@@ -37,16 +37,14 @@
   
 * Ciudades Inteligentes
   * Paises:
-   * España: http://www.redciudadesinteligentes.es/index.php/sobre-la-red/quienes-somos
-   * México: http://www.ameci-ac.org/
+    * España: http://www.redciudadesinteligentes.es/index.php/sobre-la-red/quienes-somos
+    * México: http://www.ameci-ac.org/
   * Innovaciones https://www.information-age.com/smart-cities-iot-ctos-123474110/
 
 
 * Automatización
-  * Automóviles
-  * Residencias
-   * Personales
-   * Oficinas
+  * Drones   https://expansion.mx/tecnologia/2018/05/03/airobotics-un-sistema-de-drones-autonomos-que-pueden-volar-por-si-mismos
+  * Residencias   
   * Transporte  https://www.xataka.com/automovil/pruebas-waymo-llegan-a-su-recta-final-asi-sera-primer-servicio-taxis-autonomos-mundo
    
   

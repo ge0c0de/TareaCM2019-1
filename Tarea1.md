@@ -35,5 +35,20 @@
   * transmisión de datos               -https://es.wikipedia.org/wiki/Comunicaci%C3%B3n_inal%C3%A1mbrica-
   * Comunicación remota
   
+* Ciudades Inteligentes
+  * Paises:
+   * España: http://www.redciudadesinteligentes.es/index.php/sobre-la-red/quienes-somos
+   * México: http://www.ameci-ac.org/
+  * Innovaciones https://www.information-age.com/smart-cities-iot-ctos-123474110/
+
+
+* Automatización
+  * Automóviles
+  * Residencias
+   * Personales
+   * Oficinas
+  * Transporte  https://www.xataka.com/automovil/pruebas-waymo-llegan-a-su-recta-final-asi-sera-primer-servicio-taxis-autonomos-mundo
+   
+  
   
 

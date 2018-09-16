@@ -27,8 +27,8 @@
     * Características                  
     * Desarrollo                       https://developer.apple.com/documentation/
 * Aplicaciones móviles                -https://www.consumidor.ftc.gov/articulos/s0018-aplicaciones-moviles-que-son-y-como-funcionan-
-  * Tienda  ?
-    * Mercado   ?
+  * Tiendas de Apps                   
+    * El mercado de las Apps         http://www.rrhhdigital.com/secciones/mercado-laboral/130699/Crece-un-60-el-mercado-de-aplicaciones-moviles
   * Negocio                            -https://www.channelbiz.es/2012/02/06/tiendas-de-aplicaciones-moviles-un-modelo-de-negocio-seguro/-
   
 * Comunicación inalámbrica
@@ -44,7 +44,7 @@
 
 * Automatización
   * Drones   https://expansion.mx/tecnologia/2018/05/03/airobotics-un-sistema-de-drones-autonomos-que-pueden-volar-por-si-mismos
-  * Residencias   
+  * Residencias    http://www.eluniversal.com.mx/cartera/llegan-las-casas-inteligentes-creadas-por-mexicanos
   * Transporte  https://www.xataka.com/automovil/pruebas-waymo-llegan-a-su-recta-final-asi-sera-primer-servicio-taxis-autonomos-mundo
    
   

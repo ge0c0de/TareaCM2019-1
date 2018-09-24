@@ -1,5 +1,4 @@
 # Tarea1
-
 * Asignatura: Cómputo Movil
 * Profesor: Pérez de Lara Domínguez Marduck
 * Tarea: 1
@@ -40,7 +39,6 @@
     * España: http://www.redciudadesinteligentes.es/index.php/sobre-la-red/quienes-somos
     * México: http://www.ameci-ac.org/
   * Innovaciones https://www.information-age.com/smart-cities-iot-ctos-123474110/
-
 
 * Automatización
   * Drones   https://expansion.mx/tecnologia/2018/05/03/airobotics-un-sistema-de-drones-autonomos-que-pueden-volar-por-si-mismos

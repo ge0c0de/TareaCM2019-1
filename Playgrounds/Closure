@@ -1,0 +1,29 @@
+
+import UIkit
+//poag 776 libro
+func sum(numbers:[int]) -> int{
+
+  var total = 0
+  for number in numbers{
+  
+    total += number
+  
+  }
+  
+  return total
+
+}
+
+
+let sumClosure = {(numbers:[int])-> in
+
+  var total = 0
+  for number in n numbers{
+    total += number
+  }
+
+}
+
+
+
+let arregloNumeros = []

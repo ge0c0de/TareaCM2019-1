@@ -7,7 +7,7 @@
    -- conectar archivos de aplicación nativa de música
 
 * Aplicación que registra el tiempo de vida de los alimentos en el refrigerador y avisa cuando hace falta/caducó o está por caducar algún producto para comprar de nuevo.  
- plus: mostrar los precios y/o lugares màs cercanos donde se pueden conseguir dichos productos
+ plus: mostrar los precios y/o lugares más cercanos donde se pueden conseguir dichos productos y las diferentes marcas
 
 
 

@@ -23,3 +23,8 @@ Ingeniería de software
 con el código
 
 * Al final de la etapa de diseño ya se tendrá un plan (repartir tiempo para terminar el proyecto final)
+
+
+## Metodologías ágiles
+
+Enfoque para realizar desarrollos de aplicaciones en meses

@@ -1,6 +1,6 @@
 Viveros Campos Omar Alfonso
 
-##Idea Final de Aplicación 
+## Idea Final de Aplicación 
 
 Nombre  "FridgeApp"
 

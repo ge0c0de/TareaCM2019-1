@@ -16,6 +16,7 @@
 		ACB907D521B0463600715B9E /* About.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACB907D421B0463600715B9E /* About.swift */; };
 		ACB907D721B04C2000715B9E /* Recientes.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACB907D621B04C2000715B9E /* Recientes.swift */; };
 		ACB907D921B04EAD00715B9E /* Mas.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACB907D821B04EAD00715B9E /* Mas.swift */; };
+		ACF6C32D21B589540088FFE7 /* Producto.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF6C32C21B589540088FFE7 /* Producto.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		ACB907D421B0463600715B9E /* About.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = About.swift; sourceTree = "<group>"; };
 		ACB907D621B04C2000715B9E /* Recientes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Recientes.swift; sourceTree = "<group>"; };
 		ACB907D821B04EAD00715B9E /* Mas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mas.swift; sourceTree = "<group>"; };
+		ACF6C32C21B589540088FFE7 /* Producto.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Producto.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				ACB907D421B0463600715B9E /* About.swift */,
 				ACB907D621B04C2000715B9E /* Recientes.swift */,
 				ACB907D821B04EAD00715B9E /* Mas.swift */,
+				ACF6C32C21B589540088FFE7 /* Producto.swift */,
 			);
 			path = FridgeApp;
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 			files = (
 				ACB907C321B043DF00715B9E /* ViewController.swift in Sources */,
 				ACB907D921B04EAD00715B9E /* Mas.swift in Sources */,
+				ACF6C32D21B589540088FFE7 /* Producto.swift in Sources */,
 				ACB907D521B0463600715B9E /* About.swift in Sources */,
 				ACB907D721B04C2000715B9E /* Recientes.swift in Sources */,
 				ACB907D321B045A100715B9E /* Principal.swift in Sources */,

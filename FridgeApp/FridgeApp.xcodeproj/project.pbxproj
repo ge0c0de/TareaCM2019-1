@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AC1CFE3721B6FCAB0029717B /* newProduct.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC1CFE3621B6FCAB0029717B /* newProduct.swift */; };
+		AC1CFE3921B712FA0029717B /* Compra.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC1CFE3821B712FA0029717B /* Compra.swift */; };
 		ACB907C121B043DF00715B9E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACB907C021B043DF00715B9E /* AppDelegate.swift */; };
 		ACB907C321B043DF00715B9E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACB907C221B043DF00715B9E /* ViewController.swift */; };
 		ACB907C621B043DF00715B9E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACB907C421B043DF00715B9E /* Main.storyboard */; };
@@ -20,6 +22,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AC1CFE3621B6FCAB0029717B /* newProduct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = newProduct.swift; sourceTree = "<group>"; };
+		AC1CFE3821B712FA0029717B /* Compra.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Compra.swift; sourceTree = "<group>"; };
 		ACB907BD21B043DF00715B9E /* FridgeApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FridgeApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACB907C021B043DF00715B9E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ACB907C221B043DF00715B9E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -75,6 +79,8 @@
 				ACB907D621B04C2000715B9E /* Recientes.swift */,
 				ACB907D821B04EAD00715B9E /* Mas.swift */,
 				ACF6C32C21B589540088FFE7 /* Producto.swift */,
+				AC1CFE3621B6FCAB0029717B /* newProduct.swift */,
+				AC1CFE3821B712FA0029717B /* Compra.swift */,
 			);
 			path = FridgeApp;
 			sourceTree = "<group>";
@@ -151,11 +157,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				ACB907C321B043DF00715B9E /* ViewController.swift in Sources */,
+				AC1CFE3921B712FA0029717B /* Compra.swift in Sources */,
 				ACB907D921B04EAD00715B9E /* Mas.swift in Sources */,
 				ACF6C32D21B589540088FFE7 /* Producto.swift in Sources */,
 				ACB907D521B0463600715B9E /* About.swift in Sources */,
 				ACB907D721B04C2000715B9E /* Recientes.swift in Sources */,
 				ACB907D321B045A100715B9E /* Principal.swift in Sources */,
+				AC1CFE3721B6FCAB0029717B /* newProduct.swift in Sources */,
 				ACB907C121B043DF00715B9E /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -302,6 +310,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = FridgeApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -319,6 +328,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = FridgeApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (

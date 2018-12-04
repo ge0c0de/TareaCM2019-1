@@ -15,6 +15,6 @@ class Principal : UIViewController {
     @IBOutlet weak var nameLabel: UILabel!
     
     override func viewDidLoad() {
-        nameLabel.text=nombre
+        //nameLabel.text=nombre
     }
 }
